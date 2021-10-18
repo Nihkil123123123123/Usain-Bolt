@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    background-color:#E6EE9C;
+}
+#Usianimg{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height:200px;
+    border: 5px solid;
+    border-radius: 50px;
+}
+
+#quote{
+    font-family: 'Cedarville Cursive',cursive;
+    text-align:center;
+    }
+
+mark{
+    background-color:#B388FF;
+}
+#bio{
+    margin:40px;
+    text-align:justify;
+    line-height:1.6;
+    font-size:30px;
+    font-family: 'Niconne', cursive;
+      
+}
+
+#img{
+    height: 200px;
+    width: 300px;
+    border: 10px solid lightblue;
+}
